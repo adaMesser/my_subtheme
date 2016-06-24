@@ -1,4 +1,8 @@
 <?php
+/**
+ * @file
+ * descrption
+ */
 
 // Put the logo path into JavaScript for the live preview.
 drupal_add_js(array('color' => array('logo' => theme_get_setting('logo', 'bartik'))), 'setting');
